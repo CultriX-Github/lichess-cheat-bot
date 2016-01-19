@@ -5,8 +5,13 @@ You can run this script from the console on firefox
 OR install some add-on that lets you run scripts like GREASEMONKEY for FIREFOX , think it's tampermonkey for Chrome
 
 After you've installed the add-on for your browser
-1)Download Script
-2)Install
+click
+https://raw.githubusercontent.com/jonaspeterson/lichess-cheat-bot/master/install.user.js 
+to install automatically
+
+or manualy
+1)Download/(open raw) script.js Script
+2)create new script copy paste the content of script.js to the new script
 
 feel free to contact me for any info,questions etc.
 
