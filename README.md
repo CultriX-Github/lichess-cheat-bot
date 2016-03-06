@@ -9,6 +9,7 @@ also if you want the deobfuscated source code
 
 
 also my le reddit handle
+https://www.reddit.com/r/chessCheat/
 https://www.reddit.com/user/1eEGQMm
 
 
