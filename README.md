@@ -1,5 +1,7 @@
 http://i.imgur.com/WAKedWd.png
 
+#demo script bug
+try refreshing the page if it doesn't start the first time of the game
 
  -# lichess-cheat-bot
 -a cheat bot written in javascript for the popular lichess.org chess site: contact at jonaspetersoncasey@gmx.com
