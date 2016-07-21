@@ -24,8 +24,7 @@ try refreshing the page if it doesn't start the first time of the game
 -
 
 
-keep in touch with our games and latest news on twitter
-https://twitter.com/IamViolenceDev
+
 
 
 If you like to PURCHASE a version of the script without ads that
