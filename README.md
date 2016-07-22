@@ -27,8 +27,7 @@ try refreshing the page if it doesn't start the first time of the game
 
 
 
-If you like to PURCHASE a version of the script without ads that
-goes fully undetectable mail me  jonaspetersoncasey@gmx.com
+If you like to PURCHASE the full version of the script  mail me at jonaspetersoncasey@gmx.com
 
 
 also my  reddit handle
