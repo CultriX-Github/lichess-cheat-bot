@@ -29,12 +29,7 @@ try refreshing the page if it doesn't start the first time of the game
 
 If you like to PURCHASE the full version of the script  mail me at jonaspetersoncasey@gmx.com
 
-
-also my  reddit handle
-https://www.reddit.com/r/chessCheat/
-https://www.reddit.com/user/1eEGQMm
-
-Winning against GMs
+vids of users using the demo script
 https://youtu.be/XBlWnMFywko
 https://www.youtube.com/watch?v=_GbWsoSkddk
 
