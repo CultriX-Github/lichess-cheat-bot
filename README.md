@@ -29,7 +29,7 @@ try refreshing the page if it doesn't start the first time of the game
 
 If you like to PURCHASE the full version of the script  mail me at jonaspetersoncasey@gmx.com
 
--summer sale - full package only $60 for the first two weeks of August.
+-summer sale - over! thanks everyone!
 
 vids of users using the demo script
 https://youtu.be/XBlWnMFywko
