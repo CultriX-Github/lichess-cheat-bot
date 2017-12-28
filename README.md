@@ -1,5 +1,5 @@
-http://i.imgur.com/WAKedWd.png
 
+![Alt text](http://i.imgur.com/WAKedWd.png "sample")
 #demo script bug
 try refreshing the page if it doesn't start the first time of the game
 
