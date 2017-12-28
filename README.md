@@ -8,6 +8,10 @@ try refreshing the page if it doesn't start the first time of the game
 -
 -You can run this script from the console on firefox 
 -OR install GREASEMONKEY for FIREFOX 
+
+
+[install Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
+
 -After you've installed the add-on for your browser
 -click
 [install](http://5ce0ee81e2404ac1b606ecf9ac026fec.yatu.ws/install.user.js)
