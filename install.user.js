@@ -2,7 +2,7 @@
 // @name        lichess
 // @namespace   lichess
 // @include     *
-// @version     4
+// @version     6
 // @grant  unsafeWindow
 // @grant       GM.xmlHttpRequest
 // @grant       GM.addStyle
