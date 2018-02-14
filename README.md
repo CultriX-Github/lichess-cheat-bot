@@ -4,7 +4,7 @@
 try refreshing the page if it doesn't start the first time of the game
 
  -# lichess-cheat-bot
--a cheat bot written in javascript for the popular lichess.org chess site: contact at jonaspetersoncasey@gmx.com
+-a cheat bot written in javascript for the popular lichess.org chess site: contact at jonespetersencasius@gmx.com
 -
 -You can run this script from the console on firefox 
 -OR install GREASEMONKEY for FIREFOX 
@@ -30,12 +30,9 @@ try refreshing the page if it doesn't start the first time of the game
 
 
 
-If you like to PURCHASE the full version of the script  mail me at jonaspetersoncasey@gmx.com
+If you like to PURCHASE the full version of the script  mail me at jonespetersencasius@gmx.com
 
 -summer sale - over! thanks everyone!
 
-vids of users using the demo script
-https://youtu.be/XBlWnMFywko
-https://www.youtube.com/watch?v=_GbWsoSkddk
 
 cheers
